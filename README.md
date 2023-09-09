@@ -1,4 +1,4 @@
-# Written_of_Madina_Tech_LTD
+# Written_of_Medina_Tech_LTD
 
 ## OOP related problem. Try to understand the following picture, and open the main.py file for the solution.
 
